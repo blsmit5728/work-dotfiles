@@ -1,2 +1,2 @@
-# work-dotfiles
-My Work dotfiles
+ My dotfile for work purposes.
+

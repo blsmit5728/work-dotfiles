@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/'
+let g:netrw_dirhist_2='/proj/accts/si8649A-PF/bsmith/kernels/z7e/linux/arch/arm/boot/dts'
+let g:netrw_dirhist_3='/proj/accts/ptrx_t6a/bsmith/pps-pic-sw/.git'
+let g:netrw_dirhist_4='/proj/accts/ptrx_t6a/bsmith/dubri-api/lib/devices/picoflexor/utils'
+let g:netrw_dirhist_5='/proj/accts/si8649A-PF/bsmith/master_trunk/mrw_arm/build'
+let g:netrw_dirhist_6='/proj/accts/si9150/bsmith/polaris-sw/tools/9150-python'
+let g:netrw_dirhist_7='/var/lib/tftpboot/pxelinux.cfg'
+let g:netrw_dirhist_8='/proj/accts/DUBRI/bsmith/dubri-api/lib'

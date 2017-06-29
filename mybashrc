@@ -1,0 +1,19 @@
+source ${HOME}/.colors
+
+# Set my Putty Windows name to just our host name.
+echo -ne "\033]0;`hostname`\007"
+
+if [ -z "$STY" ]
+then 
+    echo "We are not in a screen session"; 
+    screen -ls
+else 
+    echo "We are opening a screen session, get the name and set the Putty Window Title"
+    STY_NAME=`echo $STY | cut -d'.' -f2`
+    echo -ne "\033]0;$STY_NAME\007"
+fi
+
+
+
+
+
